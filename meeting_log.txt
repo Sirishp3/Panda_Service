@@ -1,0 +1,50 @@
+SCRUM Meeting 1 for Sprint 1
+Meeting Date: 10/28 6:45 - 7:00 pm
+Discussed the project structure
+Assigned new tasks and discussed what is expected by next meeting
+
+SCRUM Meeting 2 for Sprint 1
+Meeting Date: 11/2 9:45 - 10:00 pm
+Talk about progress of Sprint 1
+Prepare and finish presentation
+
+SCRUM Meeting 3 for Sprint 1
+Meeting Date: 11/4 9:30 - 9:45 pm
+Discussed user study assignment
+Discussed wrapping up features for Sprint 1
+
+SCRUM Meeting 1 for Sprint 2
+Meeting Date: 11/11 6:00 - 6:15pm
+Discussed current tasks and what is expected by next Scrum meeting 
+Discussed the user study report and how we will conduct interviews
+Discussed having Spanish translation feature complete by time of user studies
+
+SCRUM Meeting 2 for Sprint 2
+Meeting Date: 11/15 6:00 - 6:15pm
+Discussed the findings of the user study report and how we it affects our implementation moving forward
+Discussed Spanish and AI chat bot feature and how to incoporate the APIs
+Discussed wrapping up features by next Scrum meeting
+
+SCRUM Meeting 3 for Sprint 2
+Meeting Date: 11/18 9:15 - 9:30pm
+Discussed tasks finished since last Scrum meeting 
+Discussed chat bot language capabilities and implementing consistent styling 
+Discussed Sprint delieverables and planned Sprint retrospective meeting
+
+SCRUM Meeting 1 for Sprint 3
+Meeting Date: 11/25 6:00 - 6:15 pm
+Discussed expert panel report and how to conduct interviews and gather insights
+Discussed Menu Board design and improvements needed
+Planned when to complete Github release and demo
+
+SCRUM Meeting 2 for Sprint 3
+Meeting Date: 11/30 8:00 - 8:15 pm
+Discussed the current status of the Menu Board component
+Discussed the Manager View changes and improvements that can be made
+Discussed refining all the features before the next meeting
+
+SCRUM Meeting 3 for Sprint 3
+Meeting Date: 12/3 10:00 - 10:15 pm
+Discussed all the features completed and any errors that came up
+Discussed changes to make to individual features/components
+Discussed finalizing and refining features for final presentation
